@@ -1,3 +1,18 @@
+## [1.19.0](https://github.com/UmmItKin/links/compare/v1.18.3...v1.19.0) (2025-12-06)
+
+### ⚠ BREAKING CHANGES
+
+* trigger the next release :)
+* update dependencies to lastest version
+
+### Features
+
+* trigger the next release :) ([001fb61](https://github.com/UmmItKin/links/commit/001fb612c36c80d0a43ffc058bf6dd3a18cff1a7))
+
+### Chores
+
+* update dependencies to lastest version ([b24bbea](https://github.com/UmmItKin/links/commit/b24bbeaff1f676dfb3b1c794fde724e921f296af))
+
 ## [1.18.3](https://github.com/UmmItKin/links/compare/v1.18.2...v1.18.3) (2025-08-28)
 
 ### Bug Fixes
